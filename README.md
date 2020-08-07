@@ -12,9 +12,15 @@
 
 # Few Images from the Box
 
-<img src="readme_images/1.png">
+## Image-1
 
-<img src="readme_images/2.png">
+<img align="center" src="readme_images/2.png">
+
+---
+
+## Image-2
+
+<img align="center" src="readme_images/1.png">
 
 ***
 
