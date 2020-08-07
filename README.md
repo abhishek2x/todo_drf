@@ -20,10 +20,11 @@
 
 ## Image-2
 
-<img align="center" src="readme_images/1.png">
+<img align="center" src="readme_images/3.png">
 
 ***
 
-## Link to the Demo:-
+## Image-3
 
-<a href="">Demo</a>
+<img align="center" src="readme_images/1.png">
+
